@@ -1,7 +1,6 @@
-(https://i.ibb.co/br93XLP/Event-Business-Proposal-Professional-Docs-Banner-in-Dark-Brown-White-Photocentric-Style.png)
 ### Hi there 👋,  I'm Soutam
 #### I am Passionate React Developer
-![I am Passionate React Developer]
+![I am Passionate React Developer](https://i.ibb.co/br93XLP/Event-Business-Proposal-Professional-Docs-Banner-in-Dark-Brown-White-Photocentric-Style.png)
 
 
 I'm Soutam Mallick, a highly motivated and enthusiastic junior front-end developer seeking a challenging position to contribute to the development and enhancement of user-centric web applications. I am eager to apply technical skills, creativity, and strong problem-solving abilities to create engaging and responsive web experiences.
